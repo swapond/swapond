@@ -15,16 +15,16 @@
 
 ### 🌱 Currently Learning
 
-- **Mongoose**, **Next.js**, **Laravel**, **Backend API Development**
+- **Laravel**, Software Engineering Practices, Clean Code Principles, and Backend Tools
 
 ### 💬 Ask Me About
 
-- **JavaScript**, **TypeScript**, **React**, **Express**, **MongoDB**, **WordPress**, **PHP**, **MySQL**, **Laravel**
+- **JavaScript**, **TypeScript**, **React**, **PHP**, **WordPress**, **Laravel**, **MongoDB**, **MySQL**, **Express.js**
 
 ### 📫 How to Reach Me
 
 - **Email:** swapond@duck.com  
-- *Note: I am not currently active on social media.*
+- *Currently not active on social media.*
 
 ### ⚡ Fun Fact
 
@@ -35,15 +35,6 @@
 ### 🛠️ Languages and Tools
 
 <p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-  </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40" alt="Laravel" />
   </a>
@@ -53,29 +44,26 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" />
   </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40" alt="Express" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React" />
   </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40" alt="Redux" />
-  </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="TailwindCSS" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma" />
   </a>
   <a href="https://codeigniter.com" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" width="40" height="40" alt="CodeIgniter" />
   </a>
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40" alt="Redux" />
+  </a>
   <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" width="40" height="40" alt="Webpack" />
   </a>
-  <a href="https://docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker" />
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma" />
   </a>
 </p>
 
